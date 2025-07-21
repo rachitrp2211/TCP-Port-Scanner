@@ -67,7 +67,7 @@ Enter end port: 1024
 
 | Terminal Output | Generated CSV |
 |---|---|
-| ![Terminal Output Example]() | ![CSV Example](link-to-your-csv-screenshot) |
+| ![Terminal Output Example](https://github.com/rachitrp2211/TCP-Port-Scanner/blob/main/terminal_output.png) | ![CSV Example](https://github.com/rachitrp2211/TCP-Port-Scanner/blob/main/csv_report.png) |
 
 ---
 
